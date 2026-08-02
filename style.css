@@ -46,13 +46,7 @@ body {
 
 .header {
 
-    /*
-    Link gambar Google Drive:
-    ID = 1IOMKWmeykUKwicmKXLDxnIB1TbpWdDbL
-    */
-
-    background-image:
-        url("https://drive.google.com/file/d/1IOMKWmeykUKwicmKXLDxnIB1TbpWdDbL/view?usp=sharing");
+    background-image: url("header1.png");
 
     background-size: cover;
 
