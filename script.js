@@ -6,13 +6,13 @@ const apiURL = {
 
     2026: {
 
-       1: "https://script.google.com/macros/s/AKfycbxPAf6ri59FVonHj1qiYNOAWU7pmWUP5a0m-4AMjsyJCyObaXps1k2O-bCFjWxe69JZ/exec",
+       1: "https://script.google.com/macros/s/AKfycbxWqnAHMrMYJ7B1seIyE3x0hP5CWXQ4EMgYFU7uFaJCWqio8OvzcMb6jSUKf3z4eiCn/exec",
 
-        2: "https://script.google.com/macros/s/AKfycbx5NnIlJ1leQdeDKKT3XEvJ80WSk1pv8PRSKcmim2hjkd-jMmmxrNdnAcdYfADBY0kr7g/exec",
+        2: "https://script.google.com/macros/s/AKfycbwqC9AaxWLDSUVtZImhvUX8Zv8H09PyvXCpLdCkQt2X4qhocFBRV5ALnwc_-um2rkYHaA/exec",
 
-        3: "https://script.google.com/macros/s/AKfycbxW4ee_bH0ECfAYNL_ynq34M355J4RKLYhIWYDsz2DQ8rPhHXBlT7Mbj9LVQaK1SDA3/exec",
+        3: "https://script.google.com/macros/s/AKfycbzmhFpQ_9Qi3jPH3JHco50ieBvko22LgA53csCBM3OYxl4AyjWUGvg_lw7kK5FviCbx/exec",
 
-        4: "https://script.google.com/macros/s/AKfycbw6AyOdDZQXbScOo-MgNRL8o7jwOkn47Oc5Zgk3Id2mMEeFTczq-zPaXUC8rEYbO-v5/exec "
+        4: "https://script.google.com/macros/s/AKfycbzS7SwSJT-2t44IXsTyKpE-KbHI34vDcIaN0hy7RcKyTE_y3OJdCjIAr4XCQmY6r1mi/exec"
     }
 
 };
